@@ -68,7 +68,7 @@ function drawCertificate(participant, index) {
   drawCenteredText(
     participant.fullName,
     canvas.width / 2,
-    620,
+    630,
     1500,
     94,
     '"Palatino Linotype", "Book Antiqua", Georgia, serif',
